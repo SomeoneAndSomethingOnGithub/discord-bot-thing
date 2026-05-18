@@ -1,4 +1,4 @@
-pycord
+py-cord
 requests
 flask
 python-dotenv
