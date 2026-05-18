@@ -1,0 +1,4 @@
+pycord
+requests
+flask
+python-dotenv
